@@ -6,6 +6,12 @@ The city of NYC plans to deploy skateboard stations across town. Registered user
 
 
 ## To-Do 
+<---- Due Thu Oct.25th ---->
 1. Analyze citi-bike app
 2. List down all the features we will work on
-3. Project design with Django framework 
+
+<---- Due Thu Nov.1st ---->
+3. Present Project design with Django framework to team
+
+<---- Due Sun Nov.4th ---->
+4. Finish Project design and send to Prof.Yair
