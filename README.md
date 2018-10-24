@@ -11,7 +11,9 @@ The city of NYC plans to deploy skateboard stations across town. Registered user
 2. List down all the features we will work on
 
 #### <---- Due Thu Nov.1st ---->
-3. Present Project design with Django framework to team
+3. Divide all the features and come up with a development plan
+4. Present Project design with Django framework to team
 
 #### <---- Due Sun Nov.4th ---->
-4. Finish Project design and send to Prof.Yair
+4. Team members pick which features they want to work on
+5. Finish Project design and send to Prof.Yair
