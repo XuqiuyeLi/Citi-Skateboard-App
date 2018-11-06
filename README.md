@@ -17,3 +17,9 @@ The city of NYC plans to deploy skateboard stations across town. Registered user
 #### <---- Due Sun Nov.4th ---->
 4. Team members pick which features they want to work on
 5. Finish Project design and send to Prof.Yair
+
+Project Design: A two to four pages Google doc describing exactly what you plan to do. The design will include the following information:
+* The high level and detailed design. Best to include an architecture diagram in this section.
+* The languages and technologies you intend to use (e.g. list the open source tools you intend to use).
+* The exact scope of the project. What you intend to do and what you don’t.
+* The breakdown of tasks by project members. Who is in charge of what.
