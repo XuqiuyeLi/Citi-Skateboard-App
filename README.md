@@ -53,7 +53,6 @@ An Example List with Embedded Items:
 
 ## [Link to Commented First Draft Schema](db.js) 
 
-(___TODO__: create a first draft of your Schemas in db.js and link to it_)
 
 ## Wireframes
 
@@ -61,7 +60,7 @@ An Example List with Embedded Items:
 
 / - page for all stations on the map
 
-![home](documentation/home.png)
+![home](src/documentation/home.png)
 
 /list - page for showing all shopping lists
 
@@ -104,9 +103,8 @@ Here's a [complex example from wikipedia](https://upload.wikimedia.org/wikipedia
 10 points total out of 8 required points (___TODO__: addtional points will __not__ count for extra credit_)
 
 
-## [Link to Initial Main Project File](app.js) 
+## [Link to Initial Main Project File](src/app.js) 
 
-(___TODO__: create a skeleton Express application with a package.json, app.js, views folder, etc. ... and link to your initial app.js_)
 
 ## Annotations / References Used
 
