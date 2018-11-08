@@ -5,16 +5,14 @@ A skateboard version of citi-bike app
 The city of NYC plans to deploy skateboard stations across town. Registered users can check out boards and stops and return them to other boards. You will implement the management system for this service. Your system will accept check-out/check-in reports, track the skateboards, answer queries about stations (e.g. empty/full) and be the backend for user registration. In addition you will support offline batch computation on logged data, and implement such a computation as a proof-of-contents. For example, you could run a batch job that generates a station-balancing report (how and where to move bikes).
 
 
-Project Design: A two to four pages Google doc describing exactly what you plan to do. The design will include the following information:
+## Project Design: 
+A two to four pages Google doc describing exactly what you plan to do. The design will include the following information:
 * The high level and detailed design. Best to include an architecture diagram in this section.
 * The languages and technologies you intend to use (e.g. list the open source tools you intend to use).
 * The exact scope of the project. What you intend to do and what you don’t.
 * The breakdown of tasks by project members. Who is in charge of what.
 
-
-The content below is an example project proposal / requirements document. Replace the text below the lines marked "__TODO__" with details specific to your project. Remove the "TODO" lines.
-
-
+## Tech Stack
 
 
 ## Data Model
@@ -81,16 +79,14 @@ Here's a [complex example from wikipedia](https://upload.wikimedia.org/wikipedia
 
 ## User Stories or Use Cases
 
-(___TODO__: write out how your application will be used through [user stories](http://en.wikipedia.org/wiki/User_story#Format) and / or [use cases](https://www.mongodb.com/download-center?jmp=docs&_ga=1.47552679.1838903181.1489282706#previous)_)
+1. As non-registered user, you can see all the skateboards stations
+2. As non-registered user, you can check number of skateboards at each station, empty or full query reports
+3. As non-registered user, you can create an account
+4. As a user, you can check-in skateboard
+5. As a user, you can check-out skateboard
 
-1. as non-registered user, I can register a new account with the site
-2. as a user, I can log in to the site
-3. as a user, I can create a new grocery list
-4. as a user, I can view all of the grocery lists I've created in a single list
-5. as a user, I can add items to an existing grocery list
-6. as a user, I can cross off items in an existing grocery list
 
-## Research Topics
+## Tasks by Team Member
 
 (___TODO__: the research topics that you're planning on working on along with their point values... and the total points of research topics listed_)
 
