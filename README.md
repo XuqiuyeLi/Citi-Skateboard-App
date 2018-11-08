@@ -59,9 +59,9 @@ An Example List with Embedded Items:
 
 (___TODO__: wireframes for all of the pages on your site; they can be as simple as photos of drawings or you can use a tool like Balsamiq, Omnigraffle, etc._)
 
-/list/create - page for creating a new shopping list
+/ - page for all stations on the map
 
-![list create](documentation/list-create.png)
+![home](documentation/home.png)
 
 /list - page for showing all shopping lists
 
